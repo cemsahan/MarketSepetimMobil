@@ -18,6 +18,8 @@ Müşteri modülü ekran görüntüleri:
 -----------------------------------------------------------------------------------------
 ![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/customerModulu3.png)
 -----------------------------------------------------------------------------------------
+Market modülü ekran görüntüleri: 
+-----------------------------------------------------------------------------------------
 ![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/marketModulu0.png)
 -----------------------------------------------------------------------------------------
 ![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/marketModulu1.png)

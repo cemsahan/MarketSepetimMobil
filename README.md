@@ -26,3 +26,9 @@ Market modülü ekran görüntüleri:
 -----------------------------------------------------------------------------------------
 ![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/marketModulu2.png)
 -----------------------------------------------------------------------------------------
+Firebase veri tabanı yapısı:
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/firebase0.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/firebase1.png)
+-----------------------------------------------------------------------------------------

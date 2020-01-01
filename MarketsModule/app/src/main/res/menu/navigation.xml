@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Ürünlerim" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/iconaddbasket"
+        android:title="Ürün Ekle" />
+
+
+    <item
+        android:id="@+id/navigation_myOrder"
+        android:icon="@drawable/iconbasket"
+        android:title="Sipariş" />
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/user_setting"
+        android:title="Kullanıcı Ayarları" />
+
+    <item
+        android:id="@+id/navigation_exit"
+        android:icon="@drawable/exit"
+        android:title="Çıkış" />
+
+</menu>

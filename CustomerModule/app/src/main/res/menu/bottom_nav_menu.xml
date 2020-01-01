@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/iconourmarket"
+        android:title="Marketimiz" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/iconourproducts"
+        android:title="Ürünlerimiz" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/iconshopingcart"
+        android:title="Sepetiniz" />
+    <item
+    android:id="@+id/navigation_oldOrder"
+    android:icon="@drawable/iconoldorder"
+    android:title="Geçmiş siparişleriniz" />
+
+</menu>

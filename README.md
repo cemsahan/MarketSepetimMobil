@@ -7,7 +7,7 @@ geçmiş siparişleri ve gelen siparişleri görüntüleyebilip onaylayabilmekte
 
 # Uygulamaya Ait Ekran Görüntüleri
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/customerModulu0.png)
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/customerModulu1.png)
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/customerModulu2.png)
+![ ](https://github.com/cemsahan/MarketSepetimApp/blob/master/images/customerModulu3.png)
